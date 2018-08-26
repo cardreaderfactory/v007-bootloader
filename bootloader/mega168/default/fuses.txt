@@ -1,0 +1,1 @@
+atmega168 with bootloader:	 0xE2, 0xDE, 0xF8 
